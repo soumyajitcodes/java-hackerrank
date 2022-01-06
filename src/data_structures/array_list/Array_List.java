@@ -1,4 +1,3 @@
-package data_structures.array_list;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -36,6 +35,6 @@ public class Array_List {
 
         sc.close();
 
-//        System.out.println(array);
+        // System.out.println(array);
     }
 }
